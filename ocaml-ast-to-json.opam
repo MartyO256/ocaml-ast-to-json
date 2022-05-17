@@ -4,7 +4,7 @@ synopsis:
   "Utility for parsing and converting OCaml AST to JSON using `compiler-libs`"
 maintainer: ["ouimetmarcantoine@gmail.com"]
 authors: ["Marc-Antoine Ouimet"]
-license: "GPLv2"
+license: "LGPL-2.1-only"
 homepage: "https://github.com/MartyO256/ocaml-ast-to-json/"
 bug-reports: "https://github.com/MartyO256/OCaml-AST-to-JSON/issues"
 depends: [

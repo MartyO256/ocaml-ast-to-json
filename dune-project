@@ -6,7 +6,7 @@
 
 (generate_opam_files true)
 
-(license "GPLv2")
+(license "LGPL-2.1-only")
 
 (authors "Marc-Antoine Ouimet")
 
