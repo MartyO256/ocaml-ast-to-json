@@ -1,0 +1,4 @@
+(library
+ (name ocaml_ast_json)
+ (modules :standard)
+ (libraries compiler-libs.toplevel))

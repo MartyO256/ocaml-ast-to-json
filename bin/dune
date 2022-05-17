@@ -1,0 +1,5 @@
+(executable
+ (name main)
+ (public_name parse-ocaml-to-json)
+ (package ocaml-ast-to-json)
+ (libraries ocaml_ast_json compiler-libs.toplevel))
